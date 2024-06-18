@@ -1,4 +1,5 @@
-Hi 👋
+Hi 👋<br/>
+
 ⭐️  Freelancer Magento 2 developer with 10+ years of experience<br/>
 ⭐️  Successfully developed  10+  e-commerce websites using Magento<br/>
 ⭐️  Developed 50+ Magento 2 extensions<br/>
