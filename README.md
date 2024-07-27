@@ -1,9 +1,10 @@
 # Hi there 👋
 
 ## About Me
-My name is Pandurang. I am a freelancer Magento 2 developer with 10+ years of experience in Magento 2, PHP, JavaScript, CSS, and MySQL. 
-
-I'm good at Magento 2 extension development, Magento 2 payment gateway development, Magento 2 version upgrade, etc
+⭐️ I am an expert Magento 2 Developer.
+⭐️ I have 5+ years of experience in Magento development.
+⭐️ I am a Full Stack Magento 2 developer.
+⭐️ I am an expert in Magento 2 extension development.
 
 ## Contact Me
 Please feel free to contact me, if you need Magento 2 development help.
