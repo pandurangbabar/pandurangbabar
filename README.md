@@ -1,6 +1,7 @@
 # Hi there 👋
 
 ## About Me
+### Magento 2 Expert | Freelancer Magento Developer
 ⭐️ I am an expert Magento 2 Developer.<br>
 ⭐️ I have 10+ years of experience in Magento development.<br>
 ⭐️ I am a Full Stack Magento 2 developer.<br>
