@@ -7,7 +7,6 @@
 ⭐️ I am an expert in Magento 2 extension development.<br>
 ⭐️ I am a Full Stack Magento 2 developer.<br>
 
-
 ## Contact Me
 Please feel free to contact me, if you need Magento 2 development help.
 
