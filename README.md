@@ -7,8 +7,7 @@
 
 
 #### Need Magento 2 development help:
-Please feel free to contact me, if you need a Magento 2 developer on hour basis.
-
+Please feel free to contact me if you need a Magento 2 developer on an hourly basis.
 * Email - pandurangmbabar5@gamil.com
 * Skype - live:pandurang.babar
 
