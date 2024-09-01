@@ -3,8 +3,7 @@
 
 ### Hi, Nice to meet you. 👋
 
-#### About Me:
-
+#### Expert Magento 2 Developer | Magento 2 extension development
 ⭐️ I am an expert Magento 2 developer with 10+  years of experience.<br>
 ⭐️ I am an expert in Magento 2 extension development, payment gateway integration, and third-party software integration using API.<br>
 ⭐️ I ensure that all my code strictly follows Magento 2 coding standards. I deliver clean, well-documented, and high-quality code.<br>
