@@ -1,4 +1,3 @@
-#### Expert Magento 2 Developer | Magento 2 extension development
 ![Please feel free to contact me if you need a Magento 2 developer on an hourly basis (8)](https://github.com/user-attachments/assets/47cd88b0-bf3f-44b2-9b4c-a3c98c8f0775)
 
 ### Hi, Nice to meet you. 👋
