@@ -1,4 +1,5 @@
-![Please feel free to contact me if you need a Magento 2 developer on an hourly basis (8)](https://github.com/user-attachments/assets/47cd88b0-bf3f-44b2-9b4c-a3c98c8f0775)
+![Please feel free to contact me if you need a Magento 2 developer on an hourly basis (12)](https://github.com/user-attachments/assets/0d73b43d-1516-4249-8f04-0705c36a88cb)
+
 
 ### Hi, Nice to meet you. 👋
 
