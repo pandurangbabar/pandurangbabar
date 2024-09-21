@@ -1,4 +1,5 @@
-![github](https://github.com/user-attachments/assets/1697a07c-09ca-4922-91a2-3c3a84fad92d)
+![Please feel free to contact me if you need a Magento 2 developer on an hourly basis (48)](https://github.com/user-attachments/assets/9455f96f-1aeb-4550-94ab-5977b1879f67)
+
 
 
 
