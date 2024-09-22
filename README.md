@@ -3,6 +3,6 @@
 
 
 Hi,</br>
-I am a Magento 2 developer with 10+ years of experience, currently, I am working as a full-time Magento 2 freelancer. I am an expert in Magento 2 extension development, Magento 2 payment gateway development, and third-party API integration. I ensure that all my code follows Magento 2 coding standards. I deliver clean, well-documented, and high-quality code.Hi,</br>
+I am a Magento 2 developer with 10+ years of experience. Currently, I am working as a full-time Magento 2 freelancer. I am an expert in Magento 2 extension development, Magento 2 payment gateway development, and third-party API integration. I ensure that all my code follows Magento 2 coding standards. I deliver clean, well-documented, and high-quality code.Hi,</br>
 Thank You.
 
