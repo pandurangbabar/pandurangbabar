@@ -1,4 +1,5 @@
-![magento2](https://github.com/user-attachments/assets/a406f4b1-e771-4957-9aa6-a4381b252dce)
+![magento2-middle](https://github.com/user-attachments/assets/f85d318e-fcb0-449f-8d0f-adeb1b8fb46c)
+
 
 
 Hi Team, Good Morning!
