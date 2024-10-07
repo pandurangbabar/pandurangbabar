@@ -1,4 +1,5 @@
-![magento2-middle](https://github.com/user-attachments/assets/f85d318e-fcb0-449f-8d0f-adeb1b8fb46c)
+![Magento-Text-Logo](https://github.com/user-attachments/assets/b6a18be9-7d2f-49e0-83b4-656f42b15da8)
+
 
 
 
