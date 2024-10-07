@@ -1,5 +1,4 @@
-![Magento-Text-Logo](https://github.com/user-attachments/assets/b6a18be9-7d2f-49e0-83b4-656f42b15da8)
-
+![Your paragraph text (5)](https://github.com/user-attachments/assets/cd7f930e-6860-41a1-833d-acf68eed6466)
 
 
 
