@@ -3,6 +3,7 @@ Hi, I am an Expert Magento 2 Freelancer Developer with 10+ years of experience. 
 Please check my community contributions on the following platforms:
 - StackOverflow - https://magento.stackexchange.com/users/6108/pandurang-babar?tab=profile
 - Linked In - https://www.linkedin.com/in/pandurangbabar
+- Magento 2 Marketplace - https://commercemarketplace.adobe.com/partner/Pandurang+B
 
 Feel free to contact me for Magento 2 development help.
 * Email - pandurangmbabar5@gamil.com
